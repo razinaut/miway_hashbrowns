@@ -10,8 +10,6 @@ public class Driver {
         output = Input.inputHandle(input);
         
         System.out.println(output);
-        
-		
 		
 	}
 
